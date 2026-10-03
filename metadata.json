@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Atelier — Bespoke Automotive Detailing",
+  "description": "High-craft automotive detailing website with dynamic logo color theming, minimal visual-first service showcases, untouched before-and-after gallery, and smooth scroll animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
